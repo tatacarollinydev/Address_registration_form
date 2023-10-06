@@ -38,3 +38,17 @@
 - 🧏‍♀️Melhorias na acessibilidade
 - 📡Futura conexão com sistemas
 
+## **👀Demontração**
+
+## **📑Auto preenchimento dos campos**
+![App Screenshot](https://raw.githubusercontent.com/tatacarollinydev/images-readme/main/Design%20sem%20nome%20(1).gif)
+
+## **❌Erro de preenchimento**
+![App screenshot](https://raw.githubusercontent.com/tatacarollinydev/images-readme/main/Design%20sem%20nome%20(2).gif)
+
+## **❗Cep não encontrado**
+![App screenshot](https://raw.githubusercontent.com/tatacarollinydev/images-readme/main/Design%20sem%20nome%20(3).gif)
+
+
+## **Futura atualização de layout**
+![App Screenshot](https://raw.githubusercontent.com/tatacarollinydev/images-readme/f6942319fa51e75b3f04b345b45238abb80df78a/Captura%20de%20tela%202023-10-03%20104514.png)
