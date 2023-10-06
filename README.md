@@ -52,3 +52,8 @@
 
 ## **Futura atualização de layout**
 ![App Screenshot](https://raw.githubusercontent.com/tatacarollinydev/images-readme/f6942319fa51e75b3f04b345b45238abb80df78a/Captura%20de%20tela%202023-10-03%20104514.png)
+
+
+# 👩Autora
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127869448?v=4" width=95><br><sub>Thaynna Carolliny</sub>](https://github.com/tatacarollinydev)
+| :---: |
